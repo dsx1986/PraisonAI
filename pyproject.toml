@@ -17,7 +17,7 @@ packages = ["PraisonAI"]
 python = ">=3.10,<3.13"
 rich = ">=13.7"
 pyautogen = ">=0.2.19"
-crewai = ">=0.32.0"
+crewai = ">=0.51.1"
 markdown = ">=3.5"
 praisonai-tools = ">=0.0.7"
 pyparsing = ">=3.0.0"
