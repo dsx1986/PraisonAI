@@ -1,7 +1,9 @@
 rich>=13.7
-pyautogen>=0.2.19
+pyautogen>=0.2.35
 crewai>=0.51.1
 gradio>=4.20.0
 chainlit>=1.1.301
 duckduckgo_search
-praisonai_tools
+git+ssh://git@github.com/dsx1986/PraisonAI-Tools.git@main
+# -e ../PraisonAI-Tools
+# praisonai_tools
